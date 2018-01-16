@@ -10,7 +10,7 @@
 |Halid   |        |
 |Hezekiah|        |
 |James   |        |
-|Jonas   |        |
+|Jonas   |   X    |
 |Josiah  |        |
 |Julian  |        |
 |Kabilan |        |
